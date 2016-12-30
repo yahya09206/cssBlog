@@ -4,6 +4,7 @@
 	padding: 5px 5px;
 }
 
+/* Styles For Selectors*/
 body {
 	border: 20px solid #bdc3c7;
 	padding: 20px;
@@ -12,7 +13,6 @@ body {
 	margin: 20px auto;
 }
 
-/*Styles For Headers*/
 h4 {
 	color: #3498db;
 	text-transform: uppercase;
