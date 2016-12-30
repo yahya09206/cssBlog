@@ -24,3 +24,7 @@ h2 {
 p {
 	font-family: Lobster;
 }
+
+hr {
+	opacity: .1;
+}
