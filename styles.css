@@ -1,16 +1,17 @@
 /* Styles For Classes */
 .container {
 	border: 15px solid #bdc3c7;
-	margin: auto;
 }
 
 /*Styles For Headers*/
 h4 {
 	color: #3498db;
 	text-transform: uppercase;
+	
 }
 
 h2 {
 	color: #2c3e50;
 	font-family: Arima Madurai;
+	
 }
