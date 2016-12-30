@@ -6,13 +6,14 @@
 /*Styles For Headers*/
 h4 {
 	color: #3498db;
-	text-transform: uppercase;
-	font-family: Lobster;
-	
+	text-transform: uppercase;	
 }
 
 h2 {
 	color: #2c3e50;
 	font-family: Arima Madurai;
-	
+}
+
+p {
+	font-family: Lobster;
 }
