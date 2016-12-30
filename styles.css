@@ -1,7 +1,9 @@
+/* Styles For Classes */
 .container {
 	border: 15px solid #bdc3c7;
 }
 
+/*Styles For Headers*/
 h4 {
 	color: #3498db;
 	text-transform: uppercase;
